@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Game Scoping Kit logo">
+  <rect width="512" height="512" rx="96" fill="#14213D"/>
+  <!-- blueprint grid -->
+  <g stroke="#2B3F6B" stroke-width="2">
+    <path d="M96 128H416M96 192H416M96 256H416M96 320H416M96 384H416"/>
+    <path d="M128 96V416M192 96V416M256 96V416M320 96V416M384 96V416"/>
+  </g>
+  <!-- stylised game controller -->
+  <path d="M168 200h176c40 0 62 30 70 82l8 52c4 26-22 40-40 22l-34-34H164l-34 34c-18 18-44 4-40-22l8-52c8-52 30-82 70-82z" fill="#FCA311"/>
+  <!-- d-pad -->
+  <path d="M184 238h16v16h16v16h-16v16h-16v-16h-16v-16h16z" fill="#14213D"/>
+  <!-- buttons -->
+  <circle cx="318" cy="252" r="12" fill="#14213D"/>
+  <circle cx="346" cy="274" r="12" fill="#14213D"/>
+  <!-- milestone flags -->
+  <path d="M112 440h288" stroke="#E5E5E5" stroke-width="6" stroke-linecap="round"/>
+  <g fill="#E5E5E5">
+    <circle cx="144" cy="440" r="9"/><circle cx="224" cy="440" r="9"/><circle cx="304" cy="440" r="9"/><circle cx="384" cy="440" r="9"/>
+  </g>
+</svg>
