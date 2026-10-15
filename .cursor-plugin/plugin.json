@@ -1,0 +1,22 @@
+{
+  "name": "yudiz-game-scoping-kit",
+  "version": "1.0.0",
+  "description": "Free, open-source skills that turn a game idea into a scoped feature breakdown, a rough timeline and cost range with editable assumptions, a Google Play / App Store launch-readiness checklist, and an optional one-page brief.",
+  "author": {
+    "name": "Yudiz Solutions Ltd"
+  },
+  "repository": "https://github.com/leuvachirag-prog/yudiz-game-scoping-kit",
+  "license": "MIT",
+  "keywords": [
+    "game-development",
+    "scoping",
+    "estimation",
+    "mobile-games",
+    "app-store",
+    "google-play",
+    "launch-checklist",
+    "project-brief"
+  ],
+  "logo": "assets/logo.svg",
+  "skills": "./skills/"
+}
